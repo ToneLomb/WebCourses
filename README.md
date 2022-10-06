@@ -10,6 +10,6 @@
 
 ### Index page will show explanation of the game
 ### One page will link to the game
-### Last page will be a **about us** page
+### Last page will be a "**_about us_**" page
 
 # Use npm run script to show a String !
